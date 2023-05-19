@@ -1,0 +1,28 @@
+.repoItem{
+    background-color: #fff;
+    box-shadow: 1px 1px 3px 0px #000;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+.repoList{
+    height: 400px;
+    overflow: auto;
+    padding: 0 10px;
+}
+
+.repoTitleA{
+    text-decoration: none;
+    color: #000;
+}
+
+.repoDesc{
+    padding: 10px 0;
+}
+.repoMore{
+    background-color: #eee;
+    display: inline-block;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 5px;
+}
